@@ -12,10 +12,10 @@
 - [License](#license)
 
 ## Description
-The Library Management System is a Java Eclipse project designed and developed by Abdelaziz Habiba Hossamuldeen Fathy. It serves as a comprehensive solution for managing library items and user accounts efficiently. The system provides functionalities such as adding library items, user authentication, borrowing and returning items, user account management, and generating various reports. This README provides an overview of the project, its key features, and how to use it.
+The Library Management System is a Java Eclipse project designed and developed by Habiba Abdelaziz. It serves as a comprehensive solution for managing library items and user accounts efficiently. The system provides functionalities such as adding library items, user authentication, borrowing and returning items, user account management, and generating various reports. This README provides an overview of the project, its key features, and how to use it.
 
 ## Screenshots
-*Please refer to the "Screenshots" section in your report to include relevant images of your project's user interface and interactions.*
+*Please refer to the "Screenshots" section in the report to view relevant images of the project's user interface and interactions.*
 
 ## Main Functionalities
 The Library Management System encompasses the following core functionalities:
@@ -33,25 +33,19 @@ The project incorporates several programming concepts and technologies, includin
 - **Serialization:** Enabled the storage and retrieval of objects in a serialized format, facilitating data persistence and object sharing.
 
 ## Technologies Used
-- Java
+- Java Swing
 - Eclipse IDE
-- [Add any additional technologies or libraries used]
 
 ## Installation
 1. Clone the repository to your local machine using:
    ```bash
    git clone https://github.com/your-username/library-management-system.git
-[Add any specific installation instructions if needed]
-Usage
-[Provide instructions on how to run and use the application]
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow the Contributing Guidelines.
 
 License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+This project is licensed under the Habiba Abdelaziz License - see the LICENSE.md file for details.
 
-css
-Copy code
 
 Make sure to replace `[License Name]` with the actual name of the license yo
