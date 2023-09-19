@@ -41,3 +41,17 @@ The project incorporates several programming concepts and technologies, includin
 1. Clone the repository to your local machine using:
    ```bash
    git clone https://github.com/your-username/library-management-system.git
+[Add any specific installation instructions if needed]
+Usage
+[Provide instructions on how to run and use the application]
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow the Contributing Guidelines.
+
+License
+This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+
+css
+Copy code
+
+Make sure to replace `[License Name]` with the actual name of the license yo
