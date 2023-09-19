@@ -47,5 +47,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 License
 This project is licensed under the Habiba Abdelaziz License - see the LICENSE.md file for details.
 
-
-Make sure to replace `[License Name]` with the actual name of the license yo
